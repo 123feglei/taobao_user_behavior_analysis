@@ -82,7 +82,7 @@ taobao-user-behavior-analysis/
 
 ## 5. 部分文件说明
 
-| 编号 | 交付物 | 状态 |
+| 编号 | 说明 | 文件名 |
 |---|---|---|
 | D1 | 数据字典与数据质量报告 | `docs/data_profile.md` |
 | D2 | 指标口径定义文档 | `docs/metric_definitions.md` |
